@@ -10,6 +10,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:asf.antunes@gmail.com)](mailto:asf.antunes@gmail.com)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://tuna-scripts.tebex.io/)](https://tuna-scripts.tebex.io/)
 
+## Currently Learning:
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ## My Stats:
 
 ###
