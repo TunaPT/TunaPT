@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p align="left">I'm António Antunes, and I'm finishing my BSc in Computer Science I'm currently learning a bit of everything, but my main interest area is on fullstack and app development.<br>In my free time I like to explore new languages and I'm looking forward to taking part in challenging and innovative projects.</p>
+<p align="left">I'm António Antunes, and I'm finishing my Bachelor in Computer Engineering. I'm currently learning a bit of everything, but my favourite areas are Full Stack, App Development and Artificial Intelligence<br>In my free time I like to explore new languages and I'm looking forward to taking part in challenging and innovative projects.</p>
 
 ## More About Me:
 
